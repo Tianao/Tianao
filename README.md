@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Tianao Chen
+
+IT engineer, major in network engineering (datacom communication)
+
+Lives in Shanghai, China
+
+## 陈天傲
+
+IT 从业者，网络（数据通信）工程师
+
+现居上海
