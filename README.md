@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ## Tianao Chen
 
-IT engineer, major in network engineering (datacom communication)
+Network engineer lives in Shanghai, China
 
-Lives in Shanghai, China
+Holds Tianao.net (AS141172)
 
 ## 陈天傲
 
-IT 从业者，网络（数据通信）工程师
+网络工程师（IP 网络，数据通信）
 
 现居上海
