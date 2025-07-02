@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Tianao Chen
+## Tianao CHEN 陈天傲
 
-Network engineer lives in Shanghai, China
+Network engineer
+
+Lives in Shanghai, China
 
 Holds Tianao.net (AS141172)
-
-## 陈天傲
-
-网络工程师（IP 网络，数据通信）
-
-现居上海
