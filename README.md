@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Tianao CHEN 陈天傲
 
-Network engineer
+IP network engineer
 
 Lives in Shanghai, China
 
